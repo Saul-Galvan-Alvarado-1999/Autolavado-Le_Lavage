@@ -2,7 +2,8 @@
 
 # DESARROLLO DE SOFTWARE PARA EL CONTROL DE VENTAS DE UN AUTOLAVADO"
 
-_Acá va un párrafo que describa lo que es el proyecto_
+_Se creó un sistema de control de ventas para el auto lavado “Le Levator” que permite llevar un registro de ventas; facilitando la administracion y monitoreo de el negocio. 
+Se hizo uso de la metodología XP, cuyas bases son la simplicidad y adaptabilidad que se adaptan perfectamente a las necesidades del proyecto. Debido a la naturaleza del negocio se eligió una base de datos relacional utilizando el sistema de gestión MySQL para la misma. Al analizar las condiciones de trabajo se concluyó que el modelo MVC sería el adecuado para trabajar de manera simultánea entre varios desarrolladores de una forma más simple y ordenada, implementando Git y GitHub para el control de versiones. Consecuente a lo anterior, Laravel, fue el framework elegido para complementar la arquitectura MVC y aprovechar el motor de plantillas que proporciona a los desarrolladores._
 
 ## Comenzando 🚀
 
