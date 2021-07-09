@@ -2,7 +2,7 @@
 
 # "DESARROLLO DE SOFTWARE PARA EL CONTROL DE VENTAS DE UN AUTOLAVADO"
 
-_Se creó un sistema de control de ventas para el auto lavado “Le Levator” que permite llevar un registro de ventas; facilitando la administracion y monitoreo de el negocio. 
+_Se creó un sistema de control de ventas para el auto lavado “Le Levage” que permite llevar un registro de ventas; facilitando la administracion y monitoreo de el negocio. 
 Se hizo uso de la metodología XP, cuyas bases son la simplicidad y adaptabilidad que se adaptan perfectamente a las necesidades del proyecto._
 
 ## Autores ✒️
