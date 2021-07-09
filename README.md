@@ -29,7 +29,7 @@ _Herramientas:_
 
 ## Comenzando 🚀
 
-_Estas instrucciones te permitirán obtener una copia del proyecto en funcionamiento en tu máquina local para propósitos de desarrollo y pruebas._
+_Estas instrucciones te permitirán ._
 
 
 
@@ -61,21 +61,6 @@ hasta finalizar
 _Finaliza con un ejemplo de cómo obtener datos del sistema o como usarlos para una pequeña demo_
 
 
-
-
-## Contribuyendo 🖇️
-
-
-
-## Versionado 📌
-
-
-
-
-
-## Licencia 📄
-
-Este proyecto está bajo la Licencia (Tu Licencia) - mira el archivo [LICENSE.md](LICENSE.md) para detalles
 
 ## Gratitud 🎁
 
