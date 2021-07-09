@@ -1,9 +1,31 @@
 <p align="center"><img src="logo.jpg" alt="My cool logo" width="400"></a></p>
 
-# DESARROLLO DE SOFTWARE PARA EL CONTROL DE VENTAS DE UN AUTOLAVADO"
+# "DESARROLLO DE SOFTWARE PARA EL CONTROL DE VENTAS DE UN AUTOLAVADO"
 
 _Se creó un sistema de control de ventas para el auto lavado “Le Levator” que permite llevar un registro de ventas; facilitando la administracion y monitoreo de el negocio. 
-Se hizo uso de la metodología XP, cuyas bases son la simplicidad y adaptabilidad que se adaptan perfectamente a las necesidades del proyecto. Debido a la naturaleza del negocio se eligió una base de datos relacional utilizando el sistema de gestión MySQL para la misma. Al analizar las condiciones de trabajo se concluyó que el modelo MVC sería el adecuado para trabajar de manera simultánea entre varios desarrolladores de una forma más simple y ordenada, implementando Git y GitHub para el control de versiones. Consecuente a lo anterior, Laravel, fue el framework elegido para complementar la arquitectura MVC y aprovechar el motor de plantillas que proporciona a los desarrolladores._
+Se hizo uso de la metodología XP, cuyas bases son la simplicidad y adaptabilidad que se adaptan perfectamente a las necesidades del proyecto._
+
+## Autores ✒️
+
+_El equipo se conforma por:_
+
+* **Saíl Galvan Alvarado** - *Programador* - [villanuevand](https://github.com/villanuevand)
+* **Maria José Segivia Santamaria** - *Diseño* - [fulanitodetal](#fulanito-de-tal)
+* **Daniela Téllez Morales** - *Diseño* - [fulanitodetal](#fulanito-de-tal)
+* **Flor Sarai Santiago Leonardo** - *Pruebas y Documentación* - [fulanitodetal](#fulanito-de-tal)
+
+
+
+También puedes mirar la lista de todos los [contribuyentes](https://github.com/your/project/contributors) quíenes han participado en este proyecto. 
+
+## Construido con 🛠️
+
+_Herramientas:_
+
+* [Laravel](https://laravel.com/) - El framework web usado
+* [MySQL](https://www.mysql.com/) - Gestor de Base de Datos
+* [Visual Studio Code](https://code.visualstudio.com/) - Editor de Texto
+
 
 ## Comenzando 🚀
 
@@ -62,13 +84,6 @@ Da un ejemplo
 
 _Agrega notas adicionales sobre como hacer deploy_
 
-## Construido con 🛠️
-
-_Menciona las herramientas que utilizaste para crear tu proyecto_
-
-* [Dropwizard](http://www.dropwizard.io/1.0.2/docs/) - El framework web usado
-* [Maven](https://maven.apache.org/) - Manejador de dependencias
-* [ROME](https://rometools.github.io/rome/) - Usado para generar RSS
 
 ## Contribuyendo 🖇️
 
@@ -82,29 +97,17 @@ Puedes encontrar mucho más de cómo utilizar este proyecto en nuestra [Wiki](ht
 
 Usamos [SemVer](http://semver.org/) para el versionado. Para todas las versiones disponibles, mira los [tags en este repositorio](https://github.com/tu/proyecto/tags).
 
-## Autores ✒️
 
-_El equipo se conforma por:_
-
-* **Saíl Galvan Alvarado** - *Programador* - [villanuevand](https://github.com/villanuevand)
-* **Maria José Segivia Santamaria** - *Diseño* - [fulanitodetal](#fulanito-de-tal)
-* **Daniela Téllez Morales** - *Diseño* - [fulanitodetal](#fulanito-de-tal)
-* **Flor Sarai Santiago Leonardo** - *Pruebas y Documentación* - [fulanitodetal](#fulanito-de-tal)
-
-
-
-También puedes mirar la lista de todos los [contribuyentes](https://github.com/your/project/contributors) quíenes han participado en este proyecto. 
 
 ## Licencia 📄
 
 Este proyecto está bajo la Licencia (Tu Licencia) - mira el archivo [LICENSE.md](LICENSE.md) para detalles
 
-## Expresiones de Gratitud 🎁
+## Gratitud 🎁
 
-* Comenta a otros sobre este proyecto 📢
-* Invita una cerveza 🍺 o un café ☕ a alguien del equipo. 
-* Da las gracias públicamente 🤓.
-* etc.
+* Agradecemos a nuestro profesor Lic. Ricardo Luna 📢
+* por sus conocimientos que hizo a bien compartirnos 🤓
+
 
 
 
