@@ -1,4 +1,4 @@
-<p align="center"><a href="https://laravel.com" target="_blank"><img src="logo.jpg" alt="My cool logo"/> width="400"></a></p>
+<p align="center"><a href="https://laravel.com" target="_blank"><img src="logo.jpg" alt="My cool logo" width="400"></a></p>
 
 
 
