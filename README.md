@@ -84,10 +84,14 @@ Usamos [SemVer](http://semver.org/) para el versionado. Para todas las versiones
 
 ## Autores ✒️
 
-_Menciona a todos aquellos que ayudaron a levantar el proyecto desde sus inicios_
+_El equipo se conforma por:_
 
-* **Andrés Villanueva** - *Trabajo Inicial* - [villanuevand](https://github.com/villanuevand)
-* **Fulanito Detal** - *Documentación* - [fulanitodetal](#fulanito-de-tal)
+* **Saíl Galvan Alvarado** - *Programador* - [villanuevand](https://github.com/villanuevand)
+* **Maria José Segivia Santamaria** - *Diseño* - [fulanitodetal](#fulanito-de-tal)
+* **Daniela Téllez Morales** - *Diseño* - [fulanitodetal](#fulanito-de-tal)
+* **Flor Sarai Santiago Leonardo** - *Pruebas y Documentación* - [fulanitodetal](#fulanito-de-tal)
+
+
 
 También puedes mirar la lista de todos los [contribuyentes](https://github.com/your/project/contributors) quíenes han participado en este proyecto. 
 
