@@ -11,7 +11,7 @@ _El equipo se conforma por:_
 
 * **Saíl Galvan Alvarado** - [Saul-Galvan-Alvarado-1999](https://github.com/Saul-Galvan-Alvarado-1999)
 * **Daniela Téllez Morales** -  [fulanitodetal](#fulanito-de-tal)
-* **Flor Sarai Santiago Leonardo** - [SaraiSan17](https://github.com/SaraiSan17l)
+* **Flor Sarai Santiago Leonardo** - [SaraiSan17](https://github.com/SaraiSan17)
 * **Maria José Segivia Santamaria**- [fulanitodetal](#fulanito-de-tal)
 
 
