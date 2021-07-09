@@ -16,7 +16,7 @@ _El equipo se conforma por:_
 
 
 
-También puedes mirar la lista de todos los [contribuyentes](https://github.com/your/project/contributors) quíenes han participado en este proyecto. 
+También puedes mirar la lista de todos los [contribuyentes](https://github.com/Saul-Galvan-Alvarado-1999/Autolavado-Le_Lavage/graphs/contributors) quíenes han participado en este proyecto. 
 
 ## Construido con 🛠️
 
