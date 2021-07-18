@@ -24,7 +24,7 @@
         <nav class="navbar navbar-expand-md navbar-light bg-white shadow-sm">
             <div class="container">
                 <a class="navbar-brand" >
-                <img  src="../img/logo.png" width="100" height="50" >
+                <img  src="http://localhost/le_lavage/public/img/logo.png" width="100" height="50" >
                     
                 </a>
                 <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="{{ __('Toggle navigation') }}">
@@ -100,8 +100,10 @@
     </div>
 </body>
 <footer class="footer">
+<div class="container-fluid">
+<div class="container bg-light">
 <div class="footer-copyright text-center py-3" class="footer__p" position: fixed;>© 2021 Copyright, Xicotepec de Juárez Puebla
       <a href="https://mdbootstrap.com/education/bootstrap/"> </a>
-    </div>
+    </div></div></div>
     </footer>
 </html>
